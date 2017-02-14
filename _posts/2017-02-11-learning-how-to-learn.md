@@ -1,0 +1,14 @@
+---
+layout: post
+title: Learning How To Learn
+---
+
+I used to regret not getting a degree in Computer Science. This is what I originally wanted to go to school for and changed my mind with the dot-com bust happening shortly before graduating high school. But when I look back at the mindset of my 18 year old self, I realize that I wasn’t ready to dive into this world at that time. When I was in high school, my entire demeanor towards education was memorizing whatever was asked of me in tests and taking whatever shortcuts necessary to finish assignments with acceptable grades. I didn’t take into account that to actually learn something, you needed to put in the effort.
+
+As I made my way through college and needed to conduct research on a certain topic, I would impatiently comb through resources hoping to find the answer as quick as possible without trying to digest the information being provided to me. Why spend hours of time researching the practices of labor unions in the early 20th century when I could drink beer and watch tv? Learning was a chore; just something that got in the way of having fun. 
+
+On top of this, I had the mindset that I wasn’t capable of excelling in areas that engineers thrived. The biggest example was math. A voice in my head always said that I wasn’t good at math and the mandatory general electives I needed to get through were a burden. 
+
+It wasn’t until my late 20’s when the regret of not taking college seriously kicked in. Sure, I learned things during those four years as an undergrad, but I didn’t give it everything I was capable of. Once I started doing independent learning and begin my adventure into programming, I understood that research isn’t a chore and that any concept is capable of being picked up when taken the time to comprehend it. Had I known (and had the motivation) when I was in college that it wasn’t that I was bad at math, I just never given it a chance, I wouldn’t have looked at it as a burden. Math, along with any difficult concept in programming or anything else, take time and practice to comprehend. I just needed to take a concept and spend time with it, experiment with it, break it, and experiment some more. This was the path of learning that everyone takes when introduced to something new. And the more time spent on this path, the better grasp of the concept will be imprinted in the brain. 
+
+I may be at an older age than most people are when beginning their career path down computer programming, but I now understand the discipline it takes to become a successful developer, which is something I didn’t possess 10 years ago. Now that I understand the patience and dedication it takes to learn a difficult concept, I feel comfortable taking on any new challenge. It just took some time before I understood how to learn. 
